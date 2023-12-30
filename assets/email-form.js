@@ -8,7 +8,7 @@ gForm.addEventListener('submit', (e) => {
  subscribeForm.setAttribute("style", "-webkit-animation: fadeOut 1s; animation: fadeOut 1s;  animation-fill-mode: forwards;");
  gForm.setAttribute("style", "display:none;");  
  
-subscribeForm.innerHTML = `<h1>Your wallet address has been Added To Our List!</h1> `   
+subscribeForm.innerHTML = `<h1>Your wallet address has been added to our list!</h1> `   
   
 subscribeForm.setAttribute("style", "-webkit-animation: fadeIn 1s; animation: fadeIn 1s;  animation-fill-mode: forwards;");  
 
